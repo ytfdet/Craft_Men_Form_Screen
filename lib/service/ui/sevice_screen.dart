@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:untitled/service/ui/widgets/multiimagepiker.dart';
+import 'package:untitled/service/ui/widgets/multi_image_piker.dart';
 import 'package:image_picker/image_picker.dart';
 import 'widgets/problem_description_text_filed.dart';
 

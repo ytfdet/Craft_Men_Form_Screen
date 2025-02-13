@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:untitled/service/ui/sevice_screen.dart';
-import 'package:untitled/service/ui/widgets/multiimagepiker.dart';
+import 'package:untitled/service/ui/widgets/multi_image_piker.dart';
 
 void main() {
   runApp(const MyApp());
